@@ -106,7 +106,7 @@ We build "user stories" as a way to structure the main capabilities of the sites
   * If so, show a win screen (`celebrate`)
 
 
-###Potential Challenges / Development Questions
+### Potential Challenges / Development Questions
 
 1. How to randomize or shuffle card locations at the beginning of the game?
 2. How to ensure that all the cards have matches?
